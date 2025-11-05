@@ -9,3 +9,5 @@ async def test():
         "message": "Hello FastAPI!!",
         "success": True
     }
+
+
